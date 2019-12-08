@@ -117,9 +117,10 @@ def check_state(grid):
 
 
 def main(grid):
+    print("initial state:")
     grid.print_board()
     for i in range(5):
-        print("iteration " + str(i) +'\n')
+        print("iteration " + str((i+1)) +'\n')
         check_state(g)
         g.print_board()
         print('\n')
