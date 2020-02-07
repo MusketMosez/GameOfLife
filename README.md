@@ -63,7 +63,7 @@ Then the next state also contains no live cells
 
 
 
-Notes:
+# Notes:
 
 not infinite grid
 
